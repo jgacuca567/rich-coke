@@ -1,0 +1,8 @@
+/node_modules/
+/.sass-cache/
+/scss/
+.DS_Store
+/_notes/
+*.xml
+*.pkg
+
