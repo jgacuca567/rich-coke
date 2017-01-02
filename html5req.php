@@ -15,5 +15,11 @@
 <head>
     <link href="css/main.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="node_modules/font-awesome/css/font-awesome.min.css">
+    <link rel="icon" type="image/png" href="images/rich-favicon-square-ldpi.png">
+    <link rel="icon" type="image/png" href="images/rich-favicon-square-hdpi.png">
+    <link rel="icon" type="image/png" href="images/rich-favicon-square-mdpi.png">
+    <link rel="icon" type="image/png" href="images/rich-favicon-square-xhdpi.png">
+    <link rel="icon" type="image/png" href="images/rich-favicon-square-xxhdpi.png">
+    <link rel="icon" type="image/png" href="images/rich-favicon-square-xxxhdpi.png">
     <title>RICH [Strike it Rich]</title>
 </head>
