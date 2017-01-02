@@ -14,6 +14,10 @@
     </head>
 
     <body background="" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('pics/_richsearch30.jpg')">
+    	<!--Date-->
+        <script>
+            moment().format('MMMM Do YYYY, h:mm:ss a');
+        </script>
 
 <center>
   <table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
