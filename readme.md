@@ -7,4 +7,5 @@
     b. Convert CSS to SASS
 5. <del>Learn how to Embed Twitter</del>
 6. Insert date.js
+7. Insert Favicon
 
