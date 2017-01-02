@@ -22,6 +22,7 @@
     "jshint": "^2.9.1",
     "jshint-stylish": "^2.1.0",
     "load-grunt-tasks": "^3.5.2",
+    "moment": "^2.17.1",
     "node-sass": "^3.13.1",
     "npm-check-updates": "^2.5.8",
     "sass-loader": "^4.0.2",
