@@ -26,7 +26,9 @@
     "node-sass": "^3.13.1",
     "npm-check-updates": "^2.5.8",
     "sass-loader": "^4.0.2",
-    "susy": "^2.2.12"
+    "slick-carousel": "^1.6.0",
+    "susy": "^2.2.12",
+    "webpack": "^1.14.0"
   },
   "description": "Setup of Rich Website using Susy",
   "bugs": {
