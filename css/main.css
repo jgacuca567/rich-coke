@@ -753,9 +753,11 @@ html body #header {
 footer {
   background-color: black;
   color: #FFFFFF;
+  text-align: center;
 }
 
 footer a {
   text-decoration-style: dashed;
   text-transform: uppercase;
+  color: #FFFFFF;
 }
