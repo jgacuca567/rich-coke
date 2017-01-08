@@ -21,5 +21,7 @@
     <link rel="icon" type="image/png" href="images/rich-favicon-square-xhdpi.png">
     <link rel="icon" type="image/png" href="images/rich-favicon-square-xxhdpi.png">
     <link rel="icon" type="image/png" href="images/rich-favicon-square-xxxhdpi.png">
+    <link rel="stylesheet" href="node_modules/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="node_modules/slick-carousel/slick/slick-theme.css">
     <title>RICH [Strike it Rich]</title>
 </head>
