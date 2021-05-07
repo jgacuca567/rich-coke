@@ -1,51 +1,34 @@
 {
-  "name": "rich-coke",
-  "version": "0.0.4",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jgacuca567/rich-coke"
-  },
-  "devDependencies": {
-    "autoprefixer": "^6.6.0",
-    "autoupdate": "^1.0.1",
-    "font-awesome": "^4.7.0",
-    "fontawesome": "^4.7.0",
-    "grunt": "~0.4.5",
-    "grunt-autoupdate": "0.0.1",
-    "grunt-contrib-jshint": "^1.1.0",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-force-task": "^2.0.0",
-    "grunt-openport": "^1.0.0",
-    "grunt-postcss": "^0.7.2",
-    "grunt-sass": "^1.2.1",
-    "jquery": "^3.1.1",
-    "jshint": "^2.9.1",
-    "jshint-stylish": "^2.1.0",
-    "load-grunt-tasks": "^3.5.2",
-    "moment": "^2.17.1",
-    "node-sass": "^3.13.1",
-    "npm-check-updates": "^2.5.8",
-    "sass-loader": "^4.0.2",
-    "slick-carousel": "^1.6.0",
-    "susy": "^2.2.12",
-    "webpack": "^1.14.0"
-  },
-  "description": "Setup of Rich Website using Susy",
-  "bugs": {
-    "url": "https://github.com/jgacuca567/rich-coke/issues"
-  },
-  "homepage": "https://github.com/jgacuca567/rich-coke#readme",
-  "main": "index.php, gruntfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "Boilerplate"
-  ],
-  "author": "JamesVanWaza <jgacuca@dosbranding.com>",
-  "license": "MIT",
-  "dependencies": {
-    "grunt": "^0.4.5",
-    "node-sass": "^3.13.0"
-  }
+    "name": "rich-coke",
+    "version": "1.1.5",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JamesVanWaza/rich-coke"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.2.5",
+        "fontawesome": "^5.6.3",
+        "jquery": "^3.6.0",
+        "moment": "^2.17.1",
+        "sass-loader": "^11.0.1",
+        "slick-carousel": "^1.8.1",
+        "webpack": "^5.36.2"
+    },
+    "description": "Setup of Rich Website using Susy",
+    "bugs": {
+        "url": "https://github.com/JamesVanWaza/rich-coke/issues"
+    },
+    "homepage": "https://github.com/JamesVanWaza/rich-coke#readme",
+    "main": "index.php",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Boilerplate"
+    ],
+    "author": "JamesVanWaza <info@dosbranding.com>",
+    "license": "MIT",
+    "dependencies": {
+        "node-sass": "^5.0.0"
+    }
 }
