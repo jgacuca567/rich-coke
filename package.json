@@ -1,20 +1,21 @@
 {
     "name": "rich-coke",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "repository": {
         "type": "git",
         "url": "https://github.com/JamesVanWaza/rich-coke"
     },
     "devDependencies": {
-        "autoprefixer": "^10.2.5",
+        "autoprefixer": "^10.2.6",
         "fontawesome": "^5.6.3",
         "jquery": "^3.6.0",
         "moment": "^2.17.1",
-        "sass-loader": "^11.0.1",
+        "node-sass": "^6.0.0",
+        "sass-loader": "^12.1.0",
         "slick-carousel": "^1.8.1",
-        "webpack": "^5.36.2"
+        "webpack": "^5.38.1"
     },
-    "description": "Setup of Rich Website using Susy",
+    "description": "Rich Finance Website",
     "bugs": {
         "url": "https://github.com/JamesVanWaza/rich-coke/issues"
     },
@@ -28,7 +29,5 @@
     ],
     "author": "JamesVanWaza <info@dosbranding.com>",
     "license": "MIT",
-    "dependencies": {
-        "node-sass": "^5.0.0"
-    }
+    "dependencies": {}
 }
