@@ -1,33 +1,33 @@
 {
-    "name": "rich-coke",
-    "version": "1.1.6",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/JamesVanWaza/rich-coke"
-    },
-    "devDependencies": {
-        "autoprefixer": "^10.2.6",
-        "fontawesome": "^5.6.3",
-        "jquery": "^3.6.0",
-        "moment": "^2.17.1",
-        "node-sass": "^6.0.0",
-        "sass-loader": "^12.1.0",
-        "slick-carousel": "^1.8.1",
-        "webpack": "^5.38.1"
-    },
-    "description": "Rich Finance Website",
-    "bugs": {
-        "url": "https://github.com/JamesVanWaza/rich-coke/issues"
-    },
-    "homepage": "https://github.com/JamesVanWaza/rich-coke#readme",
-    "main": "index.php",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "Boilerplate"
-    ],
-    "author": "JamesVanWaza <info@dosbranding.com>",
-    "license": "MIT",
-    "dependencies": {}
+  "name": "rich-coke",
+  "version": "1.1.7",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesVanWaza/rich-coke.git"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.0",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.6.0",
+    "moment": "^2.17.1",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "slick-carousel": "^1.8.1",
+    "webpack": "^5.44.0"
+  },
+  "description": "Rich Finance Website",
+  "bugs": {
+    "url": "https://github.com/JamesVanWaza/rich-coke/issues"
+  },
+  "homepage": "https://github.com/JamesVanWaza/rich-coke#readme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boilerplate"
+  ],
+  "author": "JamesVanWaza <info@dosbranding.com>",
+  "license": "MIT",
+  "dependencies": {}
 }
